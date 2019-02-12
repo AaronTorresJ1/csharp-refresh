@@ -1,0 +1,11 @@
+C:\Users\aaron.torres\Desktop\repos\c#\csharp-refresh\bin\Debug\netcoreapp2.1\csharp-refresh.deps.json
+C:\Users\aaron.torres\Desktop\repos\c#\csharp-refresh\bin\Debug\netcoreapp2.1\csharp-refresh.runtimeconfig.json
+C:\Users\aaron.torres\Desktop\repos\c#\csharp-refresh\bin\Debug\netcoreapp2.1\csharp-refresh.runtimeconfig.dev.json
+C:\Users\aaron.torres\Desktop\repos\c#\csharp-refresh\bin\Debug\netcoreapp2.1\csharp-refresh.dll
+C:\Users\aaron.torres\Desktop\repos\c#\csharp-refresh\bin\Debug\netcoreapp2.1\csharp-refresh.pdb
+C:\Users\aaron.torres\Desktop\repos\c#\csharp-refresh\obj\Debug\netcoreapp2.1\csharp-refresh.csprojAssemblyReference.cache
+C:\Users\aaron.torres\Desktop\repos\c#\csharp-refresh\obj\Debug\netcoreapp2.1\csharp-refresh.csproj.CoreCompileInputs.cache
+C:\Users\aaron.torres\Desktop\repos\c#\csharp-refresh\obj\Debug\netcoreapp2.1\csharp-refresh.AssemblyInfoInputs.cache
+C:\Users\aaron.torres\Desktop\repos\c#\csharp-refresh\obj\Debug\netcoreapp2.1\csharp-refresh.AssemblyInfo.cs
+C:\Users\aaron.torres\Desktop\repos\c#\csharp-refresh\obj\Debug\netcoreapp2.1\csharp-refresh.dll
+C:\Users\aaron.torres\Desktop\repos\c#\csharp-refresh\obj\Debug\netcoreapp2.1\csharp-refresh.pdb
