@@ -6,3 +6,5 @@ After graduating the Microsoft Software & Systems Academy, I started my career i
 
 I decided to refresh my programming skills in C# and git for the 100 days of code challenge. 
 
+I recently discovered my fascination of git so I will be pushing all my changes to this repository using the git bash terminal!
+
